@@ -1,0 +1,8 @@
+Ingredients:
+ - top sirloin steak
+
+Directions:
+ 1. Preheat BBQ for 10 minutes on high heat. Steak should be at room temperature.
+ 2. Reduce heat to medium and sear meat for 2 minutes on each side.
+ 3. Reduce heat to medium low and grill meat turning every 5 minutes until internal
+    temperature is >= 140F.
